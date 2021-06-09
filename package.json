@@ -1,0 +1,33 @@
+{
+  "name": "logcons",
+  "description": "Simple and customizable unicode symbols for the terminal",
+  "version": "0.0.0",
+  "license": "MIT",
+  "source": "source/index.js",
+  "main": "dist/index.js",
+  "exports": "./dist/index.mjs",
+  "types": "index.d.ts",
+  "files": [
+    "dist/*",
+    "index.d.ts"
+  ],
+  "scripts": {
+    "build": "wrap",
+    "fix": "standard --fix",
+    "prepare": "husky install"
+  },
+  "devDependencies": {
+    "@barelyhuman/wrap": "^0.0.5",
+    "husky": "^6.0.0",
+    "lint-staged": "^11.0.0",
+    "standard": "^16.0.3"
+  },
+  "dependencies": {
+    "kleur": "^4.1.4"
+  },
+  "lint-staged": {
+    "*.js": [
+      "standard --fix"
+    ]
+  }
+}
