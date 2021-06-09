@@ -5,7 +5,6 @@
   "license": "MIT",
   "source": "source/index.js",
   "main": "dist/index.js",
-  "exports": "./dist/index.mjs",
   "types": "index.d.ts",
   "files": [
     "dist/*",

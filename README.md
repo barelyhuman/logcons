@@ -5,8 +5,11 @@ Simple and customizable unicode symbols for the terminal
 ## Features
 
 - Small , has like one dependency
-- Available as both cjs, esm (might be unstable)
 - You can customize the colors if you wish to
+
+**_the catch_**
+
+- Doesn't compile to esm right now (waiting for [wrap](https://github.com/barelyhuman/wrap) to add support)
 
 ## Install
 
