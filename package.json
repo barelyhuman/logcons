@@ -1,7 +1,7 @@
 {
   "name": "logcons",
   "description": "Simple and customizable unicode symbols for the terminal",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "source": "source/index.js",
   "main": "dist/index.js",
