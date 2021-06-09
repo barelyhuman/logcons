@@ -10,6 +10,15 @@
     "dist/*",
     "index.d.ts"
   ],
+  "keywords": [
+    "cli",
+    "terminal",
+    "library",
+    "node",
+    "symbols",
+    "unicode",
+    "simple"
+  ],
   "scripts": {
     "build": "wrap",
     "fix": "standard --fix",
