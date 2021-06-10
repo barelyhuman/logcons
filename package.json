@@ -22,21 +22,20 @@
   ],
   "scripts": {
     "build": "wrap",
-    "fix": "standard --fix",
+    "fix": "wrap --fix",
     "prepare": "husky install"
   },
   "devDependencies": {
-    "@barelyhuman/wrap": "^0.0.5",
+    "@barelyhuman/wrap": "^0.0.6-dev.0",
     "husky": "^6.0.0",
-    "lint-staged": "^11.0.0",
-    "standard": "^16.0.3"
+    "lint-staged": "^11.0.0"
   },
   "dependencies": {
     "kleur": "^4.1.4"
   },
   "lint-staged": {
     "*.js": [
-      "standard --fix"
+      "npm run fix"
     ]
   }
 }
