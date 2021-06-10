@@ -36,6 +36,10 @@ console.log(
 );
 ```
 
+### API
+
+Check the [index.d.ts](index.d.ts) for the available icons
+
 ## Contribute
 
 - PR's are welcome

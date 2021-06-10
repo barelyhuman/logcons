@@ -20,5 +20,10 @@ export const logcons = {
   wheelOfDharma: iconBuilder('☸', white().bold),
   peace: iconBuilder('☮', white().bold),
   biohazard: iconBuilder('☣', yellow().bold),
-  heart: iconBuilder('♥', red().bold)
+  heart: iconBuilder('♥', red().bold),
+  sun: iconBuilder('☀', yellow().bold),
+  cloud: iconBuilder('☁', blue().bold),
+  anchor: iconBuilder('⚓', white().bold),
+  diamond: iconBuilder('♦', white().bold),
+  spade: iconBuilder('♠', white().bold)
 }

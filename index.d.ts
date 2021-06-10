@@ -13,4 +13,9 @@ export declare const logcons: {
   peace: IconHandler;
   biohazard: IconHandler;
   heart: IconHandler;
+  sun: IconHandler;
+  cloud: IconHandler;
+  anchor: IconHandler;
+  diamond: IconHandler;
+  spade: IconHandler;
 };

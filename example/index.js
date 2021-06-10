@@ -11,6 +11,11 @@ console.log(logcons.lightning())
 console.log(logcons.wheelOfDharma())
 console.log(logcons.peace())
 console.log(logcons.biohazard())
+console.log(logcons.sun())
+console.log(logcons.cloud())
+console.log(logcons.anchor())
+console.log(logcons.diamond())
+console.log(logcons.spade())
 
 console.log('===Custom Coloured===')
 
