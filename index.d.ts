@@ -1,5 +1,5 @@
 type ColorHandler = (icon: string) => string;
-type IconHandler = (fn: ColorHandler) => string;
+type IconHandler = (fn?: ColorHandler) => string;
 
 export declare const logcons: {
   tick: IconHandler;
