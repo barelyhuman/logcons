@@ -1,7 +1,22 @@
-# logcons
+<h1 align="center">
+  logcons
+</h1>
 
-Simple and customizable unicode symbols for the terminal
+<p align="center">
+  Simple and customizable unicode symbols for the terminal
+</p>
 
+<div align="center">
+  <a href="https://npmjs.org/package/logcons">
+    <img src="https://badgen.now.sh/npm/v/logcons" alt="version" />
+  </a>
+  <a href="https://npmjs.org/package/logcons">
+    <img src="https://badgen.now.sh/npm/dm/logcons" alt="downloads" />
+  </a>
+  <a href="https://packagephobia.now.sh/result?p=logcons">
+    <img src="https://packagephobia.now.sh/badge?p=logcons" alt="install size" />
+  </a>
+</div>
 ## Features
 
 - Small , has like one dependency
