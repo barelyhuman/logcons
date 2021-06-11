@@ -8,13 +8,13 @@
 
 <div align="center">
   <a href="https://npmjs.org/package/logcons">
-    <img src="https://badgen.now.sh/npm/v/logcons" alt="version" />
+    <img src="https://flat.badgen.now.sh/npm/v/logcons" alt="version" />
   </a>
   <a href="https://npmjs.org/package/logcons">
-    <img src="https://badgen.now.sh/npm/dm/logcons" alt="downloads" />
+    <img src="https://flat.badgen.now.sh/npm/dm/logcons" alt="downloads" />
   </a>
   <a href="https://packagephobia.now.sh/result?p=logcons">
-    <img src="https://packagephobia.now.sh/badge?p=logcons" alt="install size" />
+    <img src="https://badgen.net/packagephobia/install/logcons" alt="install size" />
   </a>
 </div>
 ## Features
