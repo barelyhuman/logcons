@@ -14,7 +14,7 @@
     <img src="https://flat.badgen.now.sh/npm/dm/logcons" alt="downloads" />
   </a>
   <a href="https://packagephobia.now.sh/result?p=logcons">
-    <img src="https://badgen.net/packagephobia/install/logcons" alt="install size" />
+    <img src="https://flat.badgen.net/packagephobia/install/logcons" alt="install size" />
   </a>
 </div>
 ## Features
